@@ -1,3 +1,2 @@
-This is another README.md version!!! wow
-==
-GitHub is awesome
+# Ini adalah repository untuk latihan membuat branch baru di GitHub
+GitHub idk its kinda confusing man. 
