@@ -1,5 +1,3 @@
-latihan-branch
+Ini adalah repository untuk latihan membuat branch baru di GitHub
 ==
-This is a an edit
-- vroom vromm car
-- wwaaa wwaaa
+GitHub idk its kinda confusing man. 
