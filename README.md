@@ -1,5 +1,3 @@
-latihan-branch
+This is another README.md version!!! wow
 ==
-This is a an edit
-- vroom vromm car
-- wwaaa wwaaa
+GitHub is awesome
